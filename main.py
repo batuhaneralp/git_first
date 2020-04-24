@@ -1,11 +1,5 @@
-def getEmail():
-    print("Email received...")
-
-
-def postEmail():
-    # .....
-
-    print("Email sent...")
+from email_receiver import getEmail
+from email_sender import postEmail
 
 
 def main():
