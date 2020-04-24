@@ -9,7 +9,7 @@ def postEmail():
 
 
 def main():
-    print("1 - Inbox")
+    print("1 - Ünbox")
     print("2 - New")
     q = int(input("Seçim = "))
     if q == 1:
