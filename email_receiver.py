@@ -1,4 +1,4 @@
 def getEmail():
     # .....
 
-    print("Ümail received...")
+    print("Email received...")
